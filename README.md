@@ -6,3 +6,4 @@
  > - socket.io
  > - node.js (express)
  > - javascript
+ > - *ejs공부하기*
